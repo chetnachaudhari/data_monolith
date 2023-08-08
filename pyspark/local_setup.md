@@ -1,4 +1,6 @@
-# Steps to setup local docker image to work on pyspark and delta
+# THIS IS JUST ANOTHER WAY TO INSTALL DELTA 
+
+## Steps to setup local docker image to work on pyspark and delta
 1. Install Docker desktop 
 2. Install Java
 3. Start docker desktop and login to docker hub
